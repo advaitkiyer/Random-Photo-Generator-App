@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  RandomPic
 //
-//  Created by Chitra Krishnan Iyer on 17/09/23.
+//  Created by Advait Krishnan Iyer on 17/09/23.
 //
 
 import UIKit
